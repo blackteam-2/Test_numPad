@@ -1,0 +1,68 @@
+Change component parameters: Designator = "SW100"; Footprint = "MX-1U"; UniqueID = "\YGTNEQXC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW101"; Footprint = "MX-1U"; UniqueID = "\DWHGUVOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW102"; Footprint = "MX-1U"; UniqueID = "\PLMKJRLN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW103"; Footprint = "MX-1U"; UniqueID = "\JEYSXFWR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW104"; Footprint = "MX-1U"; UniqueID = "\BOBWIJJR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW105"; Footprint = "MX-1U"; UniqueID = "\IRQTJBBJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW106"; Footprint = "MX-1U"; UniqueID = "\VBCECBPE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW107"; Footprint = "MX-1U"; UniqueID = "\WBYQRHAM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW108"; Footprint = "MX-1U"; UniqueID = "\IJGIIULL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW109"; Footprint = "MX-1U"; UniqueID = "\GGSWXGAU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW110"; Footprint = "MX-1U"; UniqueID = "\JKDGKQNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW111"; Footprint = "MX-1U"; UniqueID = "\VFHYGOSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW112"; Footprint = "MX-1U"; UniqueID = "\QFUYBNAM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW113"; Footprint = "MX-1U"; UniqueID = "\KGOXYEXI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW114"; Footprint = "MX-1U"; UniqueID = "\TBSXYFSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW115"; Footprint = "MX-1U"; UniqueID = "\ETKIRKCE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW116"; Footprint = "MX-1U"; UniqueID = "\AOEELARI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Matrix Member=Component SW100 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW101 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW102 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW103 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW104 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW105 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW106 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW107 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW108 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW109 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW110 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW111 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW112 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW113 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW114 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW115 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW116 MX_Apls

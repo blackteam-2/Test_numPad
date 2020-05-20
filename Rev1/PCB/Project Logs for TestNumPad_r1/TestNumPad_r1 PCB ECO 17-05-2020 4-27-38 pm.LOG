@@ -1,0 +1,51 @@
+Added Component: Designator=SW100(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW101(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW102(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW103(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW104(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW105(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW106(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW107(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW108(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW109(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW110(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW111(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW112(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW113(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW114(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW115(MX-1U)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW116(MX-1U)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Matrix Member=Component SW100 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW101 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW102 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW103 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW104 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW105 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW106 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW107 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW108 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW109 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW110 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW111 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW112 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW113 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW114 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW115 MX_Apls
+Added Member To Class: ClassName=Matrix Member=Component SW116 MX_Apls
