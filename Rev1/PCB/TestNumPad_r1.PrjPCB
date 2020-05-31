@@ -55,6 +55,40 @@ GenerateClassCluster=0
 DocumentUniqueId=VURCGTWG
 
 [Document2]
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFLFBPFT
+
+[Document3]
+DocumentPath=USB-B_Mini.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WFOPGXLV
+
+[Document4]
 DocumentPath=TestNumPad_r1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,6 +104,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHUIXJQX
+
+[Parameter1]
+Name=Rev
+Value=r0
 
 [Configuration1]
 Name=Sources
@@ -1023,6 +1061,30 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=JM_Keyboard.IntLib
+ComponentDesignItemID0=2012C-100nF
+ComponentSymbolReference0=2012C-100nF
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=JM_Keyboard.IntLib
+ComponentDesignItemID1=3216C-10uF
+ComponentSymbolReference1=3216C-10uF
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=JM_Keyboard.IntLib
+ComponentDesignItemID2=AT90USB1286
+ComponentSymbolReference2=AT90USB1286
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=JM_Keyboard.IntLib
+ComponentDesignItemID3=MX-LED-1U
+ComponentSymbolReference3=MX-LED-1U
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1036,6 +1098,38 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Key
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=Supplier 1
+ParameterUpdate5=1
+ParameterName6=Supplier 2
+ParameterUpdate6=1
+ParameterName7=Supplier Part Number 1
+ParameterUpdate7=1
+ParameterName8=Supplier Part Number 2
+ParameterUpdate8=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=2012 (0805)
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=3216 (1206)
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=MX-1U
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=TQFP-64-0.8
+ModelUpdate3=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
