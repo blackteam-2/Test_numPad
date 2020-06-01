@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XFLFBPFT
 
 [Document3]
-DocumentPath=USB-B_Mini.SchDoc
+DocumentPath=USB-C_(TH).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,7 +82,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
