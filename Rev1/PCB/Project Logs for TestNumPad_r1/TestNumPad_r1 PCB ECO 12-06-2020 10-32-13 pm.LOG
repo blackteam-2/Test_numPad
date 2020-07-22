@@ -1,0 +1,10 @@
+Added Component: Designator=ROT100(PEC12R-4xxxF-Sxxxx-NoMod)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PEC12R-4120F-S0012-ND"; VariantName = "[No Variations]"
+Added Component: Designator=SW100(MX-1U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=SW101(MX-1U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Key"; Value = "?"; VariantName = "[No Variations]"

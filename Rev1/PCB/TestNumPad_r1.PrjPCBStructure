@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=Matrix.SchDoc
+Record=TopLevelDocument|FileName=Top Sheet.SchDoc
+Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_Matrix|SchDesignator=U_Matrix|FileName=Matrix.SchDoc|SymbolType=Normal|RawFileName=Matrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top Sheet.SchDoc|Designator=U_USB-C_(TH)|SchDesignator=U_USB-C_(TH)|FileName=USB-C_(TH).SchDoc|SymbolType=Normal|RawFileName=USB-C_(TH).SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

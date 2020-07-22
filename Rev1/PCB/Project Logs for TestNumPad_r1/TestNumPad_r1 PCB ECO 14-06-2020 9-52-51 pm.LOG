@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=SW107 Old Footprint=MX-1U New Footprint=MX-2U
+Change Component Footprint: Designator=SW111 Old Footprint=MX-1U New Footprint=MX-2U
+Change Component Footprint: Designator=SW115 Old Footprint=MX-1U New Footprint=MX-2U
+Change Component Designator: OldDesignator=SW100 NewDesignator=SW102
+Change Component Designator: OldDesignator=SW101 NewDesignator=SW103
+Change Component Designator: OldDesignator=SW102 NewDesignator=SW104
+Change Component Designator: OldDesignator=SW103 NewDesignator=SW105
+Change Component Designator: OldDesignator=SW104 NewDesignator=SW106
+Change Component Designator: OldDesignator=SW105 NewDesignator=SW107
+Change Component Designator: OldDesignator=SW106 NewDesignator=SW108
+Change Component Designator: OldDesignator=SW107 NewDesignator=SW109
+Change Component Designator: OldDesignator=SW108 NewDesignator=SW110
+Change Component Designator: OldDesignator=SW109 NewDesignator=SW111
+Change Component Designator: OldDesignator=SW110 NewDesignator=SW112
+Change Component Designator: OldDesignator=SW111 NewDesignator=SW116
+Change Component Designator: OldDesignator=SW112 NewDesignator=SW113
+Change Component Designator: OldDesignator=SW113 NewDesignator=SW114
+Change Component Designator: OldDesignator=SW114 NewDesignator=SW115
+Change Component Designator: OldDesignator=SW115 NewDesignator=SW117
+Change Component Designator: OldDesignator=SW116 NewDesignator=SW118

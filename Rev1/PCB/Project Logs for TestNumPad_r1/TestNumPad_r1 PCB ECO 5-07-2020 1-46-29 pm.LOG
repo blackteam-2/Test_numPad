@@ -1,0 +1,7 @@
+Added Component: Designator=D402(USON-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=USB - Pin=D402-1
+Added Pin To Net: NetName=SHEILD Pin=D402-3
+Added Pin To Net: NetName=USB + Pin=D402-5
+Added Pin To Net: NetName=SHEILD Pin=D402-6
+Added Member To Class: ClassName=U_USB-C_(TH) Member=Component D402 TPD4E05U06DQAR

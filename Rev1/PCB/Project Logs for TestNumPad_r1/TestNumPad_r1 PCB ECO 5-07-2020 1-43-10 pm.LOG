@@ -1,0 +1,180 @@
+Added Component: Designator=R201(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R202(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R203(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R204(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R205(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R206(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R207(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R208(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R209(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R210(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R211(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R212(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R213(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R214(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R215(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R216(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R217(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R218(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R219(2012R-360)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Reel"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R201-2
+Added Pin To Net: NetName=GND Pin=R202-2
+Added Pin To Net: NetName=GND Pin=R203-1
+Added Pin To Net: NetName=GND Pin=R204-1
+Added Pin To Net: NetName=GND Pin=R205-1
+Added Pin To Net: NetName=GND Pin=R206-1
+Added Pin To Net: NetName=GND Pin=R207-1
+Added Pin To Net: NetName=GND Pin=R208-1
+Added Pin To Net: NetName=GND Pin=R209-1
+Added Pin To Net: NetName=GND Pin=R210-1
+Added Pin To Net: NetName=GND Pin=R211-1
+Added Pin To Net: NetName=GND Pin=R212-1
+Added Pin To Net: NetName=GND Pin=R213-1
+Added Pin To Net: NetName=GND Pin=R214-1
+Added Pin To Net: NetName=GND Pin=R215-1
+Added Pin To Net: NetName=GND Pin=R216-1
+Added Pin To Net: NetName=GND Pin=R217-1
+Added Pin To Net: NetName=GND Pin=R218-1
+Added Pin To Net: NetName=GND Pin=R219-1
+Added Pin To Net: NetName=VBUS Pin=SW201-3
+Added Pin To Net: NetName=VBUS Pin=SW203-3
+Added Pin To Net: NetName=VBUS Pin=SW204-3
+Added Pin To Net: NetName=VBUS Pin=SW205-3
+Added Pin To Net: NetName=VBUS Pin=SW206-3
+Added Pin To Net: NetName=VBUS Pin=SW207-3
+Added Pin To Net: NetName=VBUS Pin=SW208-3
+Added Pin To Net: NetName=VBUS Pin=SW209-3
+Added Pin To Net: NetName=VBUS Pin=SW210-3
+Added Pin To Net: NetName=VBUS Pin=SW211-3
+Added Pin To Net: NetName=VBUS Pin=SW212-3
+Added Pin To Net: NetName=VBUS Pin=SW213-3
+Added Pin To Net: NetName=VBUS Pin=SW214-3
+Added Pin To Net: NetName=VBUS Pin=SW215-3
+Added Pin To Net: NetName=VBUS Pin=SW216-3
+Added Pin To Net: NetName=VBUS Pin=SW217-3
+Added Pin To Net: NetName=VBUS Pin=SW218-3
+Added Pin To Net: NetName=VBUS Pin=SW219-3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Pin To Net: NetName=NetR201_1 Pin=R201-1
+Added Pin To Net: NetName=NetR201_1 Pin=SW201-4
+Added Net: Name=NetR201_1
+Added Pin To Net: NetName=NetR202_1 Pin=R202-1
+Added Pin To Net: NetName=NetR202_1 Pin=SW202-4
+Added Net: Name=NetR202_1
+Added Pin To Net: NetName=NetR203_2 Pin=R203-2
+Added Pin To Net: NetName=NetR203_2 Pin=SW203-4
+Added Net: Name=NetR203_2
+Added Pin To Net: NetName=NetR204_2 Pin=R204-2
+Added Pin To Net: NetName=NetR204_2 Pin=SW204-4
+Added Net: Name=NetR204_2
+Added Pin To Net: NetName=NetR205_2 Pin=R205-2
+Added Pin To Net: NetName=NetR205_2 Pin=SW205-4
+Added Net: Name=NetR205_2
+Added Pin To Net: NetName=NetR206_2 Pin=R206-2
+Added Pin To Net: NetName=NetR206_2 Pin=SW206-4
+Added Net: Name=NetR206_2
+Added Pin To Net: NetName=NetR207_2 Pin=R207-2
+Added Pin To Net: NetName=NetR207_2 Pin=SW207-4
+Added Net: Name=NetR207_2
+Added Pin To Net: NetName=NetR208_2 Pin=R208-2
+Added Pin To Net: NetName=NetR208_2 Pin=SW208-4
+Added Net: Name=NetR208_2
+Added Pin To Net: NetName=NetR209_2 Pin=R209-2
+Added Pin To Net: NetName=NetR209_2 Pin=SW209-4
+Added Net: Name=NetR209_2
+Added Pin To Net: NetName=NetR210_2 Pin=R210-2
+Added Pin To Net: NetName=NetR210_2 Pin=SW210-4
+Added Net: Name=NetR210_2
+Added Pin To Net: NetName=NetR211_2 Pin=R211-2
+Added Pin To Net: NetName=NetR211_2 Pin=SW211-4
+Added Net: Name=NetR211_2
+Added Pin To Net: NetName=NetR212_2 Pin=R212-2
+Added Pin To Net: NetName=NetR212_2 Pin=SW212-4
+Added Net: Name=NetR212_2
+Added Pin To Net: NetName=NetR213_2 Pin=R213-2
+Added Pin To Net: NetName=NetR213_2 Pin=SW213-4
+Added Net: Name=NetR213_2
+Added Pin To Net: NetName=NetR214_2 Pin=R214-2
+Added Pin To Net: NetName=NetR214_2 Pin=SW214-4
+Added Net: Name=NetR214_2
+Added Pin To Net: NetName=NetR215_2 Pin=R215-2
+Added Pin To Net: NetName=NetR215_2 Pin=SW215-4
+Added Net: Name=NetR215_2
+Added Pin To Net: NetName=NetR216_2 Pin=R216-2
+Added Pin To Net: NetName=NetR216_2 Pin=SW216-4
+Added Net: Name=NetR216_2
+Added Pin To Net: NetName=NetR217_2 Pin=R217-2
+Added Pin To Net: NetName=NetR217_2 Pin=SW218-4
+Added Net: Name=NetR217_2
+Added Pin To Net: NetName=NetR218_2 Pin=R218-2
+Added Pin To Net: NetName=NetR218_2 Pin=SW219-4
+Added Net: Name=NetR218_2
+Added Pin To Net: NetName=NetR219_2 Pin=R219-2
+Added Pin To Net: NetName=NetR219_2 Pin=SW217-4
+Added Net: Name=NetR219_2
+Added Member To Class: ClassName=U_Matrix Member=Component R201 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R202 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R203 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R204 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R205 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R206 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R207 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R208 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R209 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R210 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R211 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R212 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R213 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R214 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R215 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R216 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R217 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R218 360R
+Added Member To Class: ClassName=U_Matrix Member=Component R219 360R

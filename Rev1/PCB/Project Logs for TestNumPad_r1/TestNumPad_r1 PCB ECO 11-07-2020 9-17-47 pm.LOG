@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=VBUS Pin=D401-A
+Removed Pin From Net: NetName=VBUS Pin=F401-2
+Removed Pin From Net: NetName=VBUS Pin=SW201-3
+Removed Pin From Net: NetName=VBUS Pin=SW203-3
+Removed Pin From Net: NetName=VBUS Pin=SW204-3
+Removed Pin From Net: NetName=VBUS Pin=SW205-3
+Removed Pin From Net: NetName=VBUS Pin=SW206-3
+Removed Pin From Net: NetName=VBUS Pin=SW207-3
+Removed Pin From Net: NetName=VBUS Pin=SW208-3
+Removed Pin From Net: NetName=VBUS Pin=SW209-3
+Removed Pin From Net: NetName=VBUS Pin=SW210-3
+Removed Pin From Net: NetName=VBUS Pin=SW211-3
+Removed Pin From Net: NetName=VBUS Pin=SW212-3
+Removed Pin From Net: NetName=VBUS Pin=SW213-3
+Removed Pin From Net: NetName=VBUS Pin=SW214-3
+Removed Pin From Net: NetName=VBUS Pin=SW215-3
+Removed Pin From Net: NetName=VBUS Pin=SW216-3
+Removed Pin From Net: NetName=VBUS Pin=SW217-3
+Removed Pin From Net: NetName=VBUS Pin=SW218-3
+Removed Pin From Net: NetName=VBUS Pin=SW219-3
+Added Component: Designator=Q301(SO8-150/200mil-GDS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q401(SO8-150/200mil-GDS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBUS Pin=Q301-S
+Added Pin To Net: NetName=VBUS Pin=Q301-S
+Added Pin To Net: NetName=VBUS Pin=Q301-S
+Added Pin To Net: NetName=VBUS Pin=Q401-D
+Added Pin To Net: NetName=VBUS Pin=Q401-D
+Added Pin To Net: NetName=VBUS Pin=Q401-D
+Added Pin To Net: NetName=VBUS Pin=Q401-D
+Added Pin To Net: NetName=SHEILD Pin=Q401-G
+Added Pin To Net: NetName=MCU_LED_Pwr Pin=Q301-G
+Added Pin To Net: NetName=MCU_LED_Pwr Pin=U301-29
+Added Net: Name=MCU_LED_Pwr
+Added Pin To Net: NetName=NetD401_A Pin=D401-A
+Added Pin To Net: NetName=NetD401_A Pin=F401-2
+Added Pin To Net: NetName=NetD401_A Pin=Q401-S
+Added Pin To Net: NetName=NetD401_A Pin=Q401-S
+Added Pin To Net: NetName=NetD401_A Pin=Q401-S
+Added Net: Name=NetD401_A
+Added Pin To Net: NetName=VLED Pin=Q301-D
+Added Pin To Net: NetName=VLED Pin=Q301-D
+Added Pin To Net: NetName=VLED Pin=Q301-D
+Added Pin To Net: NetName=VLED Pin=Q301-D
+Added Pin To Net: NetName=VLED Pin=SW201-3
+Added Pin To Net: NetName=VLED Pin=SW202-3
+Added Pin To Net: NetName=VLED Pin=SW203-3
+Added Pin To Net: NetName=VLED Pin=SW204-3
+Added Pin To Net: NetName=VLED Pin=SW205-3
+Added Pin To Net: NetName=VLED Pin=SW206-3
+Added Pin To Net: NetName=VLED Pin=SW207-3
+Added Pin To Net: NetName=VLED Pin=SW208-3
+Added Pin To Net: NetName=VLED Pin=SW209-3
+Added Pin To Net: NetName=VLED Pin=SW210-3
+Added Pin To Net: NetName=VLED Pin=SW211-3
+Added Pin To Net: NetName=VLED Pin=SW212-3
+Added Pin To Net: NetName=VLED Pin=SW213-3
+Added Pin To Net: NetName=VLED Pin=SW214-3
+Added Pin To Net: NetName=VLED Pin=SW215-3
+Added Pin To Net: NetName=VLED Pin=SW216-3
+Added Pin To Net: NetName=VLED Pin=SW217-3
+Added Pin To Net: NetName=VLED Pin=SW218-3
+Added Pin To Net: NetName=VLED Pin=SW219-3
+Added Net: Name=VLED
+Added Member To Class: ClassName=U_MCU Member=Component Q301 FDS4435BZ
+Added Member To Class: ClassName=U_USB-C_(TH) Member=Component Q401 FDS4435BZ
